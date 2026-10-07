@@ -53,70 +53,70 @@
 
 ## 💻 Open-Source GitHub Projects
 
-> Open-source software powers modern customer communication and analytics stacks. Below is a comprehensive list of top self-hosted marketing platforms, notification engines, analytics suites, and chat systems, sorted by **GitHub Star Count (descending)**.
+> Open-source software powers modern customer communication and analytics stacks. Below is a comprehensive list of top self-hosted marketing platforms, notification engines, analytics suites, and chat systems, sorted by **GitHub Stars_Count (descending)**.
 
 ---
 
 ### 🔔 Notification Infrastructure & Messaging
 
-- **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social)](https://github.com/novuhq/novu/stargazers)
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social)](https://github.com/novuhq/novu/stargazers)
   **Open-source notification infrastructure**, MIT licensed . **Unified API for email, SMS, push, in-app inbox, Slack, Teams, Discord & WhatsApp** . Visual workflow editor with conditions, delays & digests . **Best for multi-channel developer notifications**.
 
-- **[Apprise](https://github.com/caronc/apprise)** [![GitHub stars](https://img.shields.io/github/stars/caronc/apprise?style=social)](https://github.com/caronc/apprise/stargazers)
+- **[Apprise](https://github.com/caronc/apprise)** [![GitHub_Stars](https://img.shields.io/github/stars/caronc/apprise?style=social)](https://github.com/caronc/apprise/stargazers)
   **Push notification library for 100+ services**, MIT licensed . **One unified Python & CLI wrapper for Telegram, Discord, Slack, SMS, email & more** . **Best for multi-service alerts**.
 
 ---
 
 ### 📊 Analytics, Session Replay & Event Data
 
-- **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social)](https://github.com/umami-software/umami/stargazers)
+- **[Umami](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social)](https://github.com/umami-software/umami/stargazers)
   **Privacy-friendly website analytics**, MIT licensed . **Fast, lightweight, cookie-free analytics suite** . **Best for simple, privacy-focused analytics**.
 
-- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social)](https://github.com/PostHog/posthog/stargazers)
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social)](https://github.com/PostHog/posthog/stargazers)
   **Open-source product analytics platform**, MIT licensed . **Product analytics, funnels, session replay, feature flags & A/B testing** . The open-source Amplitude & Mixpanel alternative . **Best for deep product analytics**.
 
-- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social)](https://github.com/matomo-org/matomo/stargazers)
+- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social)](https://github.com/matomo-org/matomo/stargazers)
   **Full-featured web analytics**, GPL-3.0 licensed . **Heatmaps, session recording, custom goals & data ownership** . The open-source Google Analytics alternative . **Best for enterprise privacy compliance**.
 
-- **[Plausible](https://github.com/plausible/analytics)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social)](https://github.com/plausible/analytics/stargazers)
+- **[Plausible](https://github.com/plausible/analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social)](https://github.com/plausible/analytics/stargazers)
   **Lightweight web analytics**, AGPL-3.0 licensed . **Cookie-free, GDPR/CCPA compliant tracking under 1KB script** . **Best for minimal overhead web analytics**.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social)](https://github.com/formbricks/formbricks/stargazers)
+- **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social)](https://github.com/formbricks/formbricks/stargazers)
   **Open-source survey & experience management**, AGPL-3.0 licensed . **In-app micro-surveys, feedback collection & user targeting** . **Best for user feedback & CSAT**.
 
-- **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social)](https://github.com/jitsucom/jitsu/stargazers)
+- **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social)](https://github.com/jitsucom/jitsu/stargazers)
   **Open-source data collection platform**, MIT licensed . **Collect event streams and route data into data warehouses & APIs** . Open-source Segment alternative . **Best for event data pipelines**.
 
 ---
 
 ### 💬 Customer Engagement & Live Chat
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social)](https://github.com/chatwoot/chatwoot/stargazers)
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social)](https://github.com/chatwoot/chatwoot/stargazers)
   **Open-source customer engagement suite**, MIT licensed . **Omnichannel inbox unifying live chat, email, WhatsApp, SMS & social channels** . Open-source Intercom & Zendesk alternative . **Best for customer support & engagement**.
 
-- **[Erxes](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social)](https://github.com/erxes/erxes/stargazers)
+- **[Erxes](https://github.com/erxes/erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social)](https://github.com/erxes/erxes/stargazers)
   **Open-source experience operating system**, AGPL-3.0 licensed . **Combines marketing automation, messaging, sales CRM & customer support in one suite** . **Best for all-in-one growth operations**.
 
 ---
 
 ### 📧 Marketing Automation & Newsletter Platforms
 
-- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social)](https://github.com/knadh/listmonk/stargazers)
+- **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social)](https://github.com/knadh/listmonk/stargazers)
   **High-performance newsletter & mailing list manager**, AGPL-3.0 licensed . **Single binary written in Go with PostgreSQL backend** . Sends millions of emails efficiently . **Best for newsletter publishing & broadcast mailing**.
 
-- **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social)](https://github.com/mautic/mautic/stargazers)
+- **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social)](https://github.com/mautic/mautic/stargazers)
   **The leading open-source marketing automation platform**, GPL-3.0 licensed . **Email campaigns, landing pages, dynamic forms, lead scoring, segmentation & CRM integrations** . Open-source HubSpot alternative . **Best for end-to-end marketing automation**.
 
-- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)** [![GitHub stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social)](https://github.com/mailcow/mailcow-dockerized/stargazers)
+- **[Mailcow](https://github.com/mailcow/mailcow-dockerized)** [![GitHub_Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social)](https://github.com/mailcow/mailcow-dockerized/stargazers)
   **Dockerized email server suite**, GPL-3.0 licensed . **Full email suite with DKIM, SPF, DMARC, rate-limiting & deliverability tools** . **Best for self-hosted email delivery infrastructure**.
 
-- **[Mailtrain](https://github.com/Mailtrain-org/mailtrain)** [![GitHub stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=social)](https://github.com/Mailtrain-org/mailtrain/stargazers)
+- **[Mailtrain](https://github.com/Mailtrain-org/mailtrain)** [![GitHub_Stars](https://img.shields.io/github/stars/Mailtrain-org/mailtrain?style=social)](https://github.com/Mailtrain-org/mailtrain/stargazers)
   **Self-hosted newsletter application**, GPL-3.0 licensed . **Subscriber list management, segment filtering & custom field triggers** . **Best for self-hosted email list management**.
 
-- **[SendPortal](https://github.com/mettle/sendportal)** [![GitHub stars](https://img.shields.io/github/stars/mettle/sendportal?style=social)](https://github.com/mettle/sendportal/stargazers)
+- **[SendPortal](https://github.com/mettle/sendportal)** [![GitHub_Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social)](https://github.com/mettle/sendportal/stargazers)
   **Open-source email marketing software**, MIT licensed . **Laravel-based marketing application connected to SES, SendGrid, Postmark, Mailgun & SMS gateways** . **Best for self-hosted broadcast campaigns**.
 
-- **[Keila](https://github.com/keila-io/keila)** [![GitHub stars](https://img.shields.io/github/stars/keila-io/keila?style=social)](https://github.com/keila-io/keila/stargazers)
+- **[Keila](https://github.com/keila-io/keila)** [![GitHub_Stars](https://img.shields.io/github/stars/keila-io/keila?style=social)](https://github.com/keila-io/keila/stargazers)
   **Modern newsletter software**, AGPL-3.0 licensed . **Visual block editor, markdown support & privacy-focused click analytics** . **Best for modern newsletters**.
 
 ---
